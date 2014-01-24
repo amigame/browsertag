@@ -1,0 +1,30 @@
+{
+	"name": "browsertag",
+	"version": "0.0.1",
+	"private": true,
+	"description": "An exhibition of a traditional tag game on the browser",
+	"author": "kdi",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
+	],
+	"homepage": "https://amigame.co",
+	"keywords": ["amigame", "template", "game", "construct"],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/amigame/browsertag.git"
+	},
+	"bugs": {
+		"url": "https://github.com/amigame/browsertag/issues"
+	},
+	"licenses": [
+		{
+			"type": "Mozilla Public License v2.0",
+			"url": "https://www.mozilla.org/MPL/2.0/"
+		}
+	],
+	"engines": { "construct": "*" },
+	"main": "index.html",
+	"dependencies": {
+		"construct": "*"
+	}
+}
